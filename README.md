@@ -17,7 +17,7 @@ Build up the tools necessary to do simulation-based (or likelihood-free) inferen
 
 
 ## 3. Multimodal everything 
-**Facilitator: Siddharth Mishra-Sharma**
+**Facilitator: Siddharth Mishra-Sharma and Alex Gagliano**
 
 Understand how to train joint embeddings across or within modalities. Examples: (1) images + spectra + light curves, or (2) the same object observed by different instruments. Explore the structure of joint embeddings and how to use them for various downstream tasks. Bring your own multi-modal datasets!
 
@@ -29,6 +29,7 @@ Understand how to train joint embeddings across or within modalities. Examples: 
 
 Extract informative features and build lower-dimensional representations of your dataset to find the rarest and strangest instances! We’ll hack models for zero-shot and few-shot learning.
 
+[Repository for starter material]([https://github.com/smsharma/iaifi-hackathon-2023/tree/main/multimodal_ssl](https://github.com/alexandergagliano/iaifi-hackathon-2023/tree/main/anomaly_detection))
 
 ## 5. Super resolution everything
 **Facilitator: Yueying Ni**
