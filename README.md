@@ -9,6 +9,8 @@ Starter materials and tutorials for the 2024 IAIFI Astro ML Hackathon.
 
 Understand the generative model paradigm, and learn how to train diffusion generative models for a dataset of your choosing. Explore their utility for emulation, likelihood evaluation, posterior estimation, and anomaly detection.
 
+[Repository for starter material](https://github.com/florpi/iaifi-hackathon-2024-generative/tree/main)
+
 ### 2. Simulation-based everything
 **Facilitator: Siddharth Mishra-Sharma**
 
