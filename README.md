@@ -35,3 +35,7 @@ Extract informative features and build lower-dimensional representations of your
 **Facilitator: Yueying Ni**
 
 Enhancing the resolution of simulations that are too expensive to run at high resolution, for example hydrodynamical simulations of galaxy formation.
+
+## GPU computing 
+
+See [here](./computing) for instructions on how to access reserved GPU resources on the Pittsburgh Supercomputing Center's Bridges-2 cluster.
