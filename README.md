@@ -33,7 +33,7 @@ Extract informative features and build lower-dimensional representations of your
 ### 5. Super resolution everything
 **Facilitator: Yueying Ni**
 
-Enhancing the resolution of simulations that are too expensive to run at high resolution, for example hydrodynamical simulations of galaxy formation or galaxy images from real observations. 
+Enhance the resolution of simulations that are too expensive to run at high resolution. Or enhance the resolution of galaxy images for the real observations. Also welcome to bring your own datasets for super resolution!
 
 [Repository for starter material](https://github.com/yueyingn/ML-Hackathon-2024/tree/main)
 
