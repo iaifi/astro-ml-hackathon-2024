@@ -10,7 +10,11 @@ Basic workflows are described below. For more info, see this [presentation](http
 ## Getting started
 
 - If you registered for an ACCESS account and entered your username in this [form](https://forms.gle/xnvayUbwC7ivAYRj9), we've added you to the allocation. After this, it can take a few days for an account to be created on the Bridges-2 cluster.
-- You will first need to set up a password by following the instructions towards the top of https://www.psc.edu/resources/bridges-2/user-guide/. TLDR: if this is a new account, go to apr.psc.edu and create a password.
+- You will first need to set up a password by following the instructions towards the top of https://www.psc.edu/resources/bridges-2/user-guide/. TLDR: if this is a new account, go to [apr.psc.edu](https://apr.psc.edu/) and create a password.
+
+> [!CAUTION]  
+> The PSC username is different from the ACCESS username!
+
 - You can then access the cluster through the terminal `ssh -Y [username]@bridges2.psc.edu`, which logs you to a login node.
 - You can also easily login through your browser via OnDemand: https://ondemand.bridges2.psc.edu/.
 	- Here, you can start e.g. a login terminal session (`Clusters > Bridge-2 Shell Access`) or launch a Jupyter Notebook/Lab job (`Interactive Apps > Jupyter...`)
