@@ -18,7 +18,7 @@ Basic workflows are described below. For more info, see this [presentation](http
 - You can then access the cluster through the terminal `ssh -Y [username]@bridges2.psc.edu`, which logs you to a login node.
 - You can also easily login through your browser via OnDemand: https://ondemand.bridges2.psc.edu/.
 	- Here, you can start e.g. a login terminal session (`Clusters > Bridge-2 Shell Access`) or launch a Jupyter Notebook/Lab job (`Interactive Apps > Jupyter...`)
- - 	- By default, OnDemand requests an entire GPU node (typically 8 GPUs). To request a single GPU (better use of resources), add `--gres=gpu:1` to the "Extra Slurm Args" field.
+  	- By default, OnDemand requests an entire GPU node (typically 8 GPUs). To request a single GPU (better use of resources), add `--gres=gpu:1` to the "Extra Slurm Args" field.
 - From the terminal, you can type `projects` to bring up info about quotas, storage directories etc.
 
 ## Launching jobs and GPU python environment
